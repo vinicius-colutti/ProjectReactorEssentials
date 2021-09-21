@@ -3,7 +3,7 @@
 About ProjectReactor: https://projectreactor.io/
 
 ## Installation
-Dillinger requires Java11+ to run.
+Requires Java11+ to run.
 
 ```sh
 mvn clean install -U
